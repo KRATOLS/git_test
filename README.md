@@ -1,4 +1,4 @@
-g#This is test page
+#This is test page
 * Text
 * Text
     * Text - 1
